@@ -1,5 +1,6 @@
 # Mengabaikan semua folder yang dimulai dengan __
 __pycache__/
+**/pycache/
 *.py[cod]
 *$py.class
 .pytest_cache/
